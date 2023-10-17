@@ -6,6 +6,7 @@ RENCANA KONTEN RIDHO
 - Struktur data dasar
 -Flutter
 ^ common widget
+^ MVC
 -interview
 -vlogs
 - phython
