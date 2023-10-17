@@ -4,6 +4,8 @@ RENCANA KONTEN RIDHO
 * Tipe data
 * Koversi tipe data
 -Flutter
-^ layout
+^ common widget
+^ MVC
 -interview
 -vlogs
+- phython
