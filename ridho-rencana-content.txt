@@ -1,0 +1,6 @@
+RENCANA KONTEN RIDHO
+
+- Dart
+-Flutter
+-interview
+-vlogs
