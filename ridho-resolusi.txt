@@ -1,5 +1,5 @@
 RIDHO RESOLUSI
 - Konsisten belajar dart dan flutter
 - Membuat beberapa portofolio 
-- Membuat aplikasi online shop seperti shopy dan tokopedia
 - Membuat project dengan tim
+- Membuat video belajar di tiktok
