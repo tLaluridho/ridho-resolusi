@@ -3,7 +3,6 @@ RENCANA KONTEN RIDHO
 - Dart
 * Tipe data
 * Koversi tipe data
-- Struktur data dasar
 -Flutter
 ^ common widget
 ^ MVC
