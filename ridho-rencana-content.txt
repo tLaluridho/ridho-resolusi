@@ -1,6 +1,8 @@
 RENCANA KONTEN RIDHO
 
 - Dart
+* Tipe data
+* Koversi tipe data
 -Flutter
 -interview
 -vlogs
