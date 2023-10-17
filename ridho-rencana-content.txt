@@ -5,5 +5,8 @@ RENCANA KONTEN RIDHO
 * Koversi tipe data
 - Struktur data dasar
 -Flutter
+^ common widget
+^ MVC
 -interview
 -vlogs
+- phython
